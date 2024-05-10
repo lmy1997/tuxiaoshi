@@ -90,12 +90,18 @@
 目录位置：/图神经网络/B站视频代码/第六期视频/AM-GCN改进.py  
 视频链接：https://www.bilibili.com/video/BV1uD421W7dH/?spm_id_from=333.999.0.0&vd_source=8dadb0fee76d0f291c27b4e45ee15eb4
 ******************************************************************************************** 
-第七期视频：
-内容：非图数据转化为图数据的两种基础方法
-目录位置：/图神经网络/B站视频代码/第七期视频/main.py
-视频链接：https://www.bilibili.com/video/BV1qH4y1V7rr/?spm_id_from=333.999.0.0&vd_source=8dadb0fee76d0f291c27b4e45ee15eb4
-
+第七期上视频：
 内容：文本数据转化为图结构数据 
 目录位置：/图神经网络/B站视频代码/第七期视频/TextC_NodeC.py TextC_GraphC.py     
-视频链接：https://www.bilibili.com/video/BV11q421F76w/?spm_id_from=333.999.0.0&vd_source=8dadb0fee76d0f291c27b4e45ee15eb4
+视频链接：https://www.bilibili.com/video/BV11q421F76w/?vd_source=1417c4117569538dad3e46bd2672f7d9
+******************************************************************************************** 
+第七期下视频：
+内容：文本数据转化为图结构数据 
+目录位置：/图神经网络/B站视频代码/第七期视频/TextC_NodeC.py TextC_GraphC.py     
+视频链接：https://www.bilibili.com/video/BV1MM4m197nD/?vd_source=1417c4117569538dad3e46bd2672f7d9
+******************************************************************************************** 
+第九期视频：
+内容：非图数据转化为图数据的两种基础方法
+目录位置：/图神经网络/B站视频代码/第九期视频/main.py
+视频链接：https://www.bilibili.com/video/BV1qH4y1V7rr/?vd_source=1417c4117569538dad3e46bd2672f7d9
 ******************************************************************************************** 
